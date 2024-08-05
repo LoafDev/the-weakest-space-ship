@@ -1,0 +1,8 @@
+[package]
+name = "super_space_ship"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hacks = { version = "0.1", path = "../hacks" }
+raylib = {workspace = true}
